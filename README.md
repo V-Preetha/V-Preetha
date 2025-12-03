@@ -43,8 +43,8 @@
 ---
 
 ## 📬 Connect
-**Email:** preethav2606@gmail.com  
-**LinkedIn:** https://linkedin.com/in/v-preetha  
+**Email:** vpreetha13@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/preetha-venkatasubramanian-715b1032a/
 
 ---
 

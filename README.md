@@ -10,7 +10,7 @@
 ## ⚡ 10-Second Snapshot
 - 🧠 AI developer working on **medical diagnostics, deepfake forensics & psychological analytics**  
 - 🔐 Getting deep into **privacy tech, TOR, cybersecurity**  
-- ⚛️ Learning **Quantum Computing @ IIT Madras (2025)**  
+- ⚛️ Learning **Quantum Computing**  
 - 💻 Build practical apps using **Python, PyQt, Streamlit, OpenCV**  
 - 🌍 Language + culture nerd, always levelling up my mind  
 

@@ -7,7 +7,7 @@
 ---
 
 <!-- About in 10 seconds -->
-## ⚡ 10-Second Snapshot
+## ⚡ About me
 - 🧠 AI developer working on **medical diagnostics, deepfake forensics & psychological analytics**  
 - 🔐 Getting deep into **privacy tech, TOR, cybersecurity**  
 - ⚛️ Learning **Quantum Computing**  

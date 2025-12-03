@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey, I'm Preetha
 
-<!--
-**V-Preetha/V-Preetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI + Cybersecurity + Quantum Curious.**  
+Young developer from India building things that actually *do something* — from medical AI to deepfake forensics, from autism detection apps to quantum-inspired models.
 
-Here are some ideas to get you started:
+### 🚀 What I Do 
+- 🧠 Build **AI systems** (medical diagnostics, misinformation detection, emotion analysis)  
+- 🔐 Exploring **cybersecurity**, privacy tech, TOR fundamentals  
+- ⚛️ Learning **quantum computing**
+- 💻 Create **desktop/web apps** using Python, PyQt, Tkinter, Streamlit  
+- 📊 Love training models, debugging weird behaviour, and optimising pipelines  
+- 🌏 Interested in languages, cultures, and becoming *dangerously smart*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Current Projects
+- **NeuroShield AI** – misinformation + psychological monitoring + privacy defender  
+- **Deepfake Detection Suite** – AI-powered image/video verification + dark web scan  
+- **Medical Report Analyzer** – AI report generation using neural networks  
+- **Autism Detection App** – multi-test behavioural assessment tool  
+
+### 🛠️ Tech I Use
+Python • PyTorch • TensorFlow • PyQt • Streamlit • OpenCV • NLP • ML/DL • APIs • Git • C • Java  
+
+### 📫 Reach Me
+**Email:** vpreetha13@gmail.com 
+**LinkedIn:** https://www.linkedin.com/in/preetha-venkatasubramanian-715b1032a/
+
+> Always building. Always learning. Always levelling up.
+

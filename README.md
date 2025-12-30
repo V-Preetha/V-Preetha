@@ -18,7 +18,6 @@
 
 <!-- Current Projects -->
 ## 🚀 What I'm Building
-- 🛡️ **NeuroShield AI** — misinformation + psychological monitoring + privacy defense  
 - 🎭 **Deepfake Detection Suite** — AI verification + dark web scanning  
 - 🧬 **Medical Report Analyzer** — neural network insights from patient docs  
 - 👁️ **Autism Detection App** — 5-test behavioural assessment tool  

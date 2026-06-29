@@ -154,22 +154,8 @@ class Preetha:
 #  GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=V-Preetha&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
+  <img src="https://trophy.benkou.dev/?username=V-Preetha&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
-
----
-
-#  Weekly Development Breakdown
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=V-Preetha&theme=tokyonight"/>
-
-</p>
-
-> Remove this section if you don't use WakaTime.
 
 ---
 

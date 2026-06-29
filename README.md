@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Preetha V
@@ -151,4 +151,4 @@ https://www.linkedin.com/in/preetha-venkatasubramanian-715b1032a/
 *"Curiosity drives research. Engineering turns it into reality."*
 
 </div>
-```
+

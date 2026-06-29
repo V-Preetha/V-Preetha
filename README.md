@@ -157,12 +157,6 @@ class Preetha:
   <img src="https://trophy.benkou.dev/?username=V-Preetha&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 
----
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Preetha&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 #  Learning Philosophy
@@ -176,28 +170,23 @@ class Preetha:
 </div>
 
 ---
+# Connect 
 
-#  Connect
-
-<p align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="mailto:vpreetha13@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
+<td width="40"></td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/preetha-venkatasubramanian-715b1032a/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-
-</p>
+</td>
+</tr>
+</table>
 

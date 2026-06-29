@@ -68,7 +68,7 @@ class Preetha:
 
 #  Research Interests
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RjZmE4N2d0NWN4aGlmMWJoaTR4NWFydjFvdG1tNWJtaDF2eTZ5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif"/>
+<img align="right" width="320" src="https://static.seaflux.tech/media/blog/c8f9ffdd-b978-4ab3-81b8-155963e34839-baymax-1-.gif"/>
 
 - Artificial Intelligence
 - Computational Biology

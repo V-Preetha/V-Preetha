@@ -158,16 +158,6 @@ class Preetha:
 </p>
 
 
----
-#  Learning Philosophy
-
-<div align="center">
-
-> *"Curiosity is my favorite algorithm."*
-
-> *"Research begins with questions. Engineering turns them into reality."*
-
-</div>
 
 ---
 # Connect 

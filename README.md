@@ -4,9 +4,7 @@
 <!-- Replace banner.png with your own banner in the repository -->
 <!-- ========================================================= -->
 
-<p align="center">
-<img src="7b871cee4ff324b9cc17ea028b4074ce.jpg" width="100%">
-</p>
+
 
 <h1 align="center">Hi, I'm Preetha 👋</h1>
 
@@ -15,7 +13,9 @@ Building Intelligent Systems across AI, Cybersecurity & Computational Science
 </h3>
 
 <p align="center">
-
+<p align="center">
+<img src="7b871cee4ff324b9cc17ea028b4074ce.jpg" width="100%">
+</p>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=8B5CF6&lines=Artificial+Intelligence;Computational+Biology;Cybersecurity;Post-Quantum+Cryptography;Healthcare+AI;Software+Engineering;Always+Learning."/>
 
 </p>

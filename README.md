@@ -158,7 +158,13 @@ class Preetha:
 </p>
 
 ---
+## GitHub Activity
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=V-Preetha&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
 #  Learning Philosophy
 
 <div align="center">
